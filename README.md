@@ -77,7 +77,8 @@ The project includes:
 # 📸 Dashboard Preview
 <<img width="1375" height="748" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9e46fc63-24d4-45a7-a3f2-1aee7750978f" />
 >
-
+## 📥 Power BI Dashboard File
+[Download PBIX Dashboard File](https://drive.google.com/file/d/1EjVhJyQRySIPrV0E-g7BYCMBGlsEvgfA/view?usp=drive_link)
 ---
 
 # 👨‍💻 Author
